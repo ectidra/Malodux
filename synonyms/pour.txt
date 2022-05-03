@@ -1,0 +1,7 @@
+pour
+empty
+drain
+spill
+clear
+deplete
+dump

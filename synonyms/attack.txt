@@ -1,0 +1,14 @@
+attack
+kick
+punch
+dropkick
+headbutt
+charge
+strike
+break
+slap
+bash
+smack
+smash
+hit
+shatter
